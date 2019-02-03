@@ -16,4 +16,4 @@ async def on_message(message):
 async def on_ready():
     print('Ready.')
 
-client.run('jetcoff@gmail.com', 'password')
+client.run('EMAIL', 'PASSWORD')
